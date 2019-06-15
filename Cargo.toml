@@ -1,0 +1,8 @@
+[package]
+name = "robo"
+version = "0.0.1"
+
+[lib]
+name = "robo"
+path = "lib.rs"
+doctest = false
